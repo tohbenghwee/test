@@ -1,0 +1,14 @@
+[
+  {
+    "keyword": "keyword1",
+    "service": "service1",
+    "port": "3003",
+    "replace": "replace1"
+  },
+  {
+    "keyword": "keyword2",
+    "service": "service2",
+    "port": "3004",
+    "replace": "replace2"
+  }
+]
